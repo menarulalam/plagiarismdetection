@@ -1,11 +1,6 @@
 /**
  * The <code>Pasasge</code>  contains a hashmap vector of all the words in a
  * passage
- *
- * @author Menarul Alam
- * e-mail: menarul.alam@stonybrook.edu
- * Stony Brook ID: 112838926
- * Recitation: R.07
  **/
 import java.io.*;
 import java.nio.Buffer;

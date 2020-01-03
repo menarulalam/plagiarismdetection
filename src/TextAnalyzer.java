@@ -1,10 +1,5 @@
 /**
  * The <code>TextAnalyzer</code> TextAnalyzer class runs the passage class
- *
- * @author Menarul Alam
- * e-mail: menarul.alam@stonybrook.edu
- * Stony Brook ID: 112838926
- * Recitation: R.07
  **/
 import java.io.File;
 import java.util.ArrayList;

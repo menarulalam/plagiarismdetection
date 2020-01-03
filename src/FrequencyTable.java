@@ -1,10 +1,5 @@
 /**
  * The <code>FrequencyTable</code>  contains a frequency table of frequency list
- *
- * @author Menarul Alam
- * e-mail: menarul.alam@stonybrook.edu
- * Stony Brook ID: 112838926
- * Recitation: R.07
  **/
 import java.util.ArrayList;
 import java.util.Iterator;

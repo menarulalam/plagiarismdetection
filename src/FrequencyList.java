@@ -1,10 +1,6 @@
 /**
  * The <code>FrequencyList</code>  contains a frequency list
  *
- * @author Menarul Alam
- * e-mail: menarul.alam@stonybrook.edu
- * Stony Brook ID: 112838926
- * Recitation: R.07
  **/
 import java.util.HashMap;
 import java.util.ArrayList;
